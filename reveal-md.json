@@ -1,0 +1,6 @@
+{
+    "separator": "^\n---\n",
+    "verticalSeparator": "^\n>>>\n",
+    "progress": true,
+    "controls": false
+}
